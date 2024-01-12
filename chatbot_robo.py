@@ -1,7 +1,9 @@
 
 # coding: utf-8
 
-# # Meet Robo: your friend
+nltk.download('punkt')
+nltk.download('wordnet')
+
 
 import nltk
 
